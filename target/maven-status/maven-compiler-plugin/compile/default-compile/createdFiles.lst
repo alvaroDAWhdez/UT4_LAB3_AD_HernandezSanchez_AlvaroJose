@@ -1,0 +1,5 @@
+Entity\Planeta.class
+Controladores\HoloNetControl.class
+Main\MainNetControl.class
+Entity\Nave.class
+Entity\HibernateUtil.class
